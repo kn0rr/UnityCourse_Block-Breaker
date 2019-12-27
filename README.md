@@ -7,7 +7,7 @@ I will enter new information after I find time to edit this file.
 
 # Special Remarks
 
-## Used Text Fonds:
+## Used Text Fonts
 
 [MB-Think Twice 'Normal' - Leaking Grunge Font by ModBlackmoon.](https://www.dafont.com/de/mb-think-twice.font)
 
@@ -15,6 +15,6 @@ Author: ModBlackmoon
 
 WEB: modblackmoon.narod.ru / modblackmoon.deviantart.com
 
-## Used Background Image:
+## Used Background Image
 
 [Sterblichkeit-Totnkopf-Vanitas](https://pixabay.com/de/illustrations/sterblichkeit-totenkopf-vanitas-401222/)
